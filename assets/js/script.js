@@ -19,7 +19,7 @@ $(document).ready(function() {
       btnText: "Purchase Tickets",
       btnUrl: "tickets.html"
     },
-  ]
+  ];
 
   carouselSlides.forEach((slide, i) => {
     $('.carousel-inner').append(`
